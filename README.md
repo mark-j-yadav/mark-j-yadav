@@ -68,7 +68,7 @@ I believe in **execution over hype** and **products over promises**.
 ## 🐍 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/markjyadav/markjyadav/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/markjyadav/mark-j-yadav/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -91,8 +91,8 @@ I’m open to:
 - Serious technical discussions  
 
 📫 **Connect with me**
-- GitHub: https://github.com/markjyadav
-- LinkedIn: (add your LinkedIn URL)
+- GitHub: https://github.com/mark-j-yadav
+- LinkedIn: https://www.linkedin.com/in/mark-j-yadav/
 
 ---
 
