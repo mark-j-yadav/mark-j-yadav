@@ -1,67 +1,69 @@
 <h1 align="center">Mark J Yadav</h1>
 <h3 align="center">
-AI Engineer • Full-Stack Developer • Startup Founder
+Machine Learning Engineer • Python Developer • Full-Stack Developer
 </h3>
 
 <p align="center">
-Building AI-driven products, scalable platforms, and future-ready startups.
+I build data-driven applications, AI-powered systems, and scalable full-stack products.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **technology-focused entrepreneur and AI engineer** with a strong background in
-**full-stack web development, automation, and applied artificial intelligence**.
+I am a **Machine Learning–focused software developer** with strong experience in
+**Python, full-stack web development, and applied AI systems**.
 
-My core focus is on:
-- Building **AI-powered products**
-- Designing **scalable SaaS & startup architectures**
-- Applying AI to solve **real-world business problems**
+My work focuses on:
+- Turning **data and models into real products**
+- Building **scalable, production-ready applications**
+- Applying **machine learning to solve practical problems**
 
-I believe in **execution over hype** and **products over promises**.
+I value **clean architecture, measurable outcomes, and long-term maintainability**.
 
 ---
 
-## 🧠 Core Focus Areas
+## 🧠 Core Expertise
 
-- Artificial Intelligence & Applied ML  
-- Startup & SaaS Product Engineering  
+- Machine Learning & Applied AI  
+- Python Development  
 - Full-Stack Web Development  
+- Data-Driven Applications  
 - Automation & System Design  
-- AI for Business & Productivity  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
+### Languages
+- Python
 - JavaScript (ES6+)
 - TypeScript
-- Python
 - C#
 
-**Frontend**
+### Machine Learning / Data
+- NumPy
+- Pandas
+- Scikit-learn
+- Data preprocessing & feature engineering
+- Model evaluation & optimization
+
+### Frontend
 - React.js
 - Next.js
+- HTML5, CSS3
 - Tailwind CSS
 
-**Backend**
+### Backend
 - Node.js
 - Express.js
 - MongoDB
-- REST APIs
+- RESTful APIs
 
-**AI / Tools**
-- OpenAI APIs
-- Prompt Engineering
-- AI Automation Workflows
-- Data-driven Applications
-
-**DevOps / Tools**
+### Tools & DevOps
 - Git & GitHub
+- GitHub Actions (CI/CD)
 - Docker (Basics)
-- CI/CD (GitHub Actions)
 
 ---
 
@@ -71,25 +73,35 @@ I believe in **execution over hype** and **products over promises**.
   <img src="https://raw.githubusercontent.com/mark-j-yadav/mark-j-yadav/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+
+## 📌 Currently Working On
+
+- Machine learning–based projects
+- AI-driven web applications
+- Full-stack SaaS-style platforms
+- Automation tools using Python and APIs
 
 ---
 
-## 📌 What I’m Working On
+## 📂 Featured Projects
 
-- AI-based startup ideas
-- SaaS-style web platforms
-- Automation tools for founders & businesses
-- Scalable product architectures
+Pinned repositories highlight:
+- Real-world machine learning use cases
+- End-to-end full-stack applications
+- Clean, maintainable, and documented code
+
+Each project is designed with **practical implementation and scalability** in mind.
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Collaboration & Opportunities
 
-I’m open to:
-- AI startup collaborations  
-- Early-stage product development  
-- Open-source contributions  
-- Serious technical discussions  
+I am open to:
+- Machine learning projects
+- Full-stack product development
+- Early-stage startup collaboration
+- Open-source contributions
 
 📫 **Connect with me**
 - GitHub: https://github.com/mark-j-yadav
@@ -98,5 +110,6 @@ I’m open to:
 ---
 
 <p align="center">
-⚡ Focused on building long-term value through technology.
+Focused on building reliable software and intelligent systems.
 </p>
+
