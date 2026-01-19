@@ -68,8 +68,9 @@ I believe in **execution over hype** and **products over promises**.
 ## 🐍 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/markjyadav/mark-j-yadav/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mark-j-yadav/mark-j-yadav/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
